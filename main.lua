@@ -55,7 +55,7 @@ function MakeScriptHub()
         end
     })
     local Tab4 = Window2:MakeTab({
-    Name = '',
+    Name = 'Coming soon...',
     Icon = 'rbxassetid://4483345998',
     PremiumOnly
 })
