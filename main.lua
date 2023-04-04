@@ -30,7 +30,7 @@ function MakeKeyIncorrectNoti()
 end
 
 function MakeScriptHub()
-        local Window2 = OrionLib:MakeWindow({Name = 'WESTHUB Duping System', HidePremium = false, SaveConfig = true, IntroEnabled = true})
+        local Window2 = OrionLib:MakeWindow({Name = 'WESTHUB', HidePremium = false, SaveConfig = true, IntroEnabled = true})
        local Tab2 = Window2:MakeTab({
         Name = 'BGS Dupe',
         Icon = 'rbxassetid://4483345998',
